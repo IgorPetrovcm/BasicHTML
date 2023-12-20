@@ -1,0 +1,9 @@
+body{
+    background-color:grey;
+}
+div form{
+    border:1px solid;
+    width:30em;
+    height: 30em;
+    margin: auto;
+}

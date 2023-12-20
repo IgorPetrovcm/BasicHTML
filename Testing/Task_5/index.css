@@ -1,0 +1,18 @@
+div{
+
+}
+.bigbrown span{
+    color:coral;
+}
+span.bigbrown{
+    font-size: 20px;
+    color:brown;
+}
+.biggreen{
+    font-size:20px;
+    color:darkgreen;
+}
+.block1>div>p{
+    color:blue;
+    border: 1px solid;
+}
